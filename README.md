@@ -29,3 +29,5 @@ Onboard 5V supply for external sensors
 
 All outputs are wire connections to PCB (16 awg) - no common location for connections - simplifies routing and noise performance of Design
 Stackable design - using the correct board connectors
+
+Blank PCB's can be ordered from OSH PARK https://oshpark.com/shared_projects/PI4ERPJH about $10 each need to buy 3 pcs
